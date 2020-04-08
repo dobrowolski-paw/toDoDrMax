@@ -90,7 +90,6 @@ class App extends Component {
       finishDate: null,
       user: user,
     };
-    this.counter++;
     this.setState((prevState) => ({
       tasks: [...prevState.tasks, task],
     }));
@@ -99,7 +98,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        Zadania Dr. Max
+        <h1>Zadania Dr. Max</h1>
         <AddTask addTask={this.addTask} />
         <TaskList
           tasks={this.state.tasks}
