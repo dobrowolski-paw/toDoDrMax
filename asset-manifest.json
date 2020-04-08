@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/toDoDrMax/static/css/main.d1b05096.chunk.css",
-    "main.js": "/toDoDrMax/static/js/main.2df1060c.chunk.js",
-    "main.js.map": "/toDoDrMax/static/js/main.2df1060c.chunk.js.map",
+    "main.js": "/toDoDrMax/static/js/main.a8f1d214.chunk.js",
+    "main.js.map": "/toDoDrMax/static/js/main.a8f1d214.chunk.js.map",
     "runtime-main.js": "/toDoDrMax/static/js/runtime-main.be0f4b90.js",
     "runtime-main.js.map": "/toDoDrMax/static/js/runtime-main.be0f4b90.js.map",
     "static/js/2.cc7a1927.chunk.js": "/toDoDrMax/static/js/2.cc7a1927.chunk.js",
     "static/js/2.cc7a1927.chunk.js.map": "/toDoDrMax/static/js/2.cc7a1927.chunk.js.map",
     "index.html": "/toDoDrMax/index.html",
-    "precache-manifest.9fe6e27e3151c1e4b7f3c1f7d98f2e42.js": "/toDoDrMax/precache-manifest.9fe6e27e3151c1e4b7f3c1f7d98f2e42.js",
+    "precache-manifest.6c02e98fb5d0753fa0e4342b5eec66c0.js": "/toDoDrMax/precache-manifest.6c02e98fb5d0753fa0e4342b5eec66c0.js",
     "service-worker.js": "/toDoDrMax/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/toDoDrMax/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.cc7a1927.chunk.js.LICENSE.txt": "/toDoDrMax/static/js/2.cc7a1927.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.be0f4b90.js",
     "static/js/2.cc7a1927.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2df1060c.chunk.js"
+    "static/js/main.a8f1d214.chunk.js"
   ]
 }

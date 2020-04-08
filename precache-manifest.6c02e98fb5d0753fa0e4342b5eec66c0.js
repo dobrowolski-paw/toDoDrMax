@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d54d767b439aefcdd9386eb851f8275",
+    "revision": "a725ae99dd21591add1ddf7669df5e2e",
     "url": "/toDoDrMax/index.html"
   },
   {
-    "revision": "4493db633df704408e87",
+    "revision": "9c90854ccf69520e875a",
     "url": "/toDoDrMax/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toDoDrMax/static/js/2.cc7a1927.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4493db633df704408e87",
-    "url": "/toDoDrMax/static/js/main.2df1060c.chunk.js"
+    "revision": "9c90854ccf69520e875a",
+    "url": "/toDoDrMax/static/js/main.a8f1d214.chunk.js"
   },
   {
     "revision": "89e6ffa84128781aaec2",
