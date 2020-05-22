@@ -1,3 +1,8 @@
+Link do testowania  https://dobrowolski-paw.github.io/toDoDrMax/
+Aplikacja pozwala dodać zadanie określić do kiedy trzeba je wykonac i kto ma to zrobić
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
